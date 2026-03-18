@@ -1,4 +1,4 @@
-# Cassius Vale
+# Character Info - Cassius Vale
 ### Class: Paladin
 
 ###  Race: Human
@@ -39,7 +39,7 @@
 * **Total armor:** 3
 * **Total weight:** 8
 
-## Moves
+## Class Moves
 ### Lay on Hands (CHA)
 When you **touch someone, skin to skin, and pray for their well-being **, roll+CHA
 * On a 10+ you heal 1d8 damage or remove one disease.
@@ -69,4 +69,12 @@ You swear a sacred mission and gain divine boons and burdens
 * Valor (forbidden: suffering an evil creature to live)
 * Honor (forbidden: cowardly tactics and tricks)
 
+## Basic Moves
+@https://exposit.github.io/dw-srd/dw_basic_moves.html
 
+## Special Moves
+@https://exposit.github.io/dw-srd/dw_special_moves.html
+
+# World Info
+## About Equipment
+@https://exposit.github.io/dw-srd/dw_equipment.html
