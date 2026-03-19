@@ -1,5 +1,6 @@
 # Character Info - Cassius Vale
 ### Class: Paladin
+* Level 2
 
 ###  Race: Human
 * When you pray for guidance and ask *“What here is evil?”*, the GM answers honestly 
@@ -17,8 +18,8 @@
 | Stat | Score | Modifier |
 | ---- | ----- | -------- |
 | STR  | 16    | +2       |
-| CON  | 15    | +1       |
-| CHA  | 13    | +1       |
+| CHA  | 16    | +2       |
+| CON  | 13    | +1       |
 | WIS  | 12    | +0       |
 | DEX  | 9     | +0       |
 | INT  | 8     | -1       |
@@ -32,12 +33,10 @@
 ### Starting Gear
 * Scale armor (2 armor, 3 weight)
 * Longsword (+1 damage, 1 weight)
-* Shield (+1 armor, 2 weight)
-* Dungeon rations (5 uses, 1 weight)
-* Adventuring gear (5 uses, 1 weight)
+* Masterwork Shield (+1 armor, 0 weight)
 * Holy symbol (0 weight)
 * **Total armor:** 3
-* **Total weight:** 8
+* **Total weight:** 4
 
 ## Class Moves
 ### Lay on Hands (CHA)
