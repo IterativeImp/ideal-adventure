@@ -54,6 +54,9 @@ When you command with divine authority roll +CHA:
 * 10+: +1 forward vs them
 * 6-: they do as they please and you take -1 forward against them
 
+### Voice of Authority
+Take +1 to order hirelings.
+
 ### Quest
 You swear a sacred mission and gain divine boons and burdens 
 
