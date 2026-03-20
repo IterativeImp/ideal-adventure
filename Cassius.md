@@ -1,6 +1,6 @@
 # Character Info - Cassius Vale
 ### Class: Paladin
-* Level 2
+* Level 3
 
 ###  Race: Human
 * When you pray for guidance and ask *“What here is evil?”*, the GM answers honestly 
@@ -20,7 +20,7 @@
 | STR  | 16    | +2       |
 | CHA  | 16    | +2       |
 | CON  | 13    | +1       |
-| WIS  | 12    | +0       |
+| WIS  | 13    | +1       |
 | DEX  | 9     | +0       |
 | INT  | 8     | -1       |
 
@@ -56,6 +56,9 @@ When you command with divine authority roll +CHA:
 
 ### Voice of Authority
 Take +1 to order hirelings.
+
+### Staunch Defender
+when you defend you always hold +1 even on a 6-
 
 ### Quest
 You swear a sacred mission and gain divine boons and burdens 
